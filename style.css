@@ -1,0 +1,61 @@
+body{
+text-align:center;
+background-color:orange;
+background-repeat:no-repeat;  
+}
+#imae1{
+border-radius:50%;
+width:100px;  
+}
+h1{
+text-shadow:2px 2px #F8BBDO;
+font-size:30px;    
+}
+.menu{
+z-index:10;    
+ top:0px;
+right:10px;
+position:fixed;    
+font-family:cursive;
+float:right;
+ 
+curser:pointer;    
+color:black;
+}
+#start{
+font-family: 'Roboto', sans-serif;    
+}
+#bio{
+font-family: 'Open Sans', sans-serif;
+}
+html{
+scroll-behavior:smooth;    
+}
+#image1{
+width:275px;
+height:300px;    
+}
+#image2{
+width:275px;
+height:300px;    
+}
+#image3{
+width:275px;
+height:300px;    
+}
+#image4{
+width:275px;
+height:300px;    
+}
+#image5{
+width:275px;
+height:300px;    
+}
+#image6{
+width:275px;
+height:300px;    
+}
+#inspiration img{
+width:275px;
+height:300px;    
+}
